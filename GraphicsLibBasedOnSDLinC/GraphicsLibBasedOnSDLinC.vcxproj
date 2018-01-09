@@ -241,6 +241,7 @@
     <None Include="include\SDL_config.h.cmake" />
     <None Include="include\SDL_config.h.in" />
     <None Include="include\SDL_config_macosx.h.orig" />
+    <None Include="SDL2.dll" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="..\SDL2.lib" />

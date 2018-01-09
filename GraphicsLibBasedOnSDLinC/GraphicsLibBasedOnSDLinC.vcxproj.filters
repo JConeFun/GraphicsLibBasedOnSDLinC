@@ -291,6 +291,9 @@
     <None Include="include\SDL_config_macosx.h.orig">
       <Filter>Header Files\includs</Filter>
     </None>
+    <None Include="SDL2.dll">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Library Include="..\SDL2.lib" />
